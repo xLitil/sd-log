@@ -4,7 +4,7 @@
   "description": "API de log",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "eslint *.js && mocha"
   },
   "repository": {
     "type": "git",
