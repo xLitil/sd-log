@@ -1,0 +1,23 @@
+{
+  "name": "sd-log",
+  "version": "1.0.0",
+  "description": "API de log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xLitil/sd-log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xLitil/sd-log/issues"
+  },
+  "homepage": "https://github.com/xLitil/sd-log#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1"
+  }
+}
